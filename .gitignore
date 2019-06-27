@@ -1,7 +1,6 @@
 .cache
 .idea
 .vscode
-dist
 coverage
 node_modules
 npm-debug.log
